@@ -1,0 +1,13 @@
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\Ejercicio.exe
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\publish\web.config
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\appsettings.Development.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\appsettings.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\publish\appsettings.Development.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\publish\appsettings.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\publish\Ejercicio.deps.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\publish\Ejercicio.runtimeconfig.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\publish\Ejercicio.staticwebassets.endpoints.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\Ejercicio.dll
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\Ejercicio.deps.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\Ejercicio.runtimeconfig.json
+C:\repositorios\Ejercicio\bin\Release\net9.0\publish\Ejercicio.pdb

@@ -1,0 +1,7 @@
+C:\repositorios\Ejercicio\publish\Ejercicio.exe
+C:\repositorios\Ejercicio\publish\appsettings.Development.json
+C:\repositorios\Ejercicio\publish\appsettings.json
+C:\repositorios\Ejercicio\publish\Ejercicio.dll
+C:\repositorios\Ejercicio\publish\Ejercicio.deps.json
+C:\repositorios\Ejercicio\publish\Ejercicio.runtimeconfig.json
+C:\repositorios\Ejercicio\publish\Ejercicio.pdb
